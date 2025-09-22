@@ -13,4 +13,4 @@ Program ini diimplementasikan menggunakan **Single Linked List** dalam bahasa C+
 1. Pastikan Anda memiliki C++ compiler (seperti MinGW/g++).
 2. Compile file `TugasAkhirSingleLinkedList.cpp` dengan perintah:
    ```sh
-   g++ PlaylistMusik.cpp -o PlaylistMusik
+   g++ TugasAkhirSingleLinkedList.cpp -o TugasAkhirSingleLinkedList
