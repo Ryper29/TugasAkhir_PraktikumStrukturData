@@ -1,4 +1,4 @@
-# Tugas Akhir Praktikum Struktur Data
+# Tugas Akhir Praktikum Struktur Data Judul 1: Variabel Struktur Data
 
 Ini adalah program studi kasus **Sistem Manajemen Playlist Musik Sederhana** yang dibuat untuk memenuhi Tugas Akhir Praktikum Struktur Data.
 
