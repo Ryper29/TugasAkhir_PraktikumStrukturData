@@ -12,7 +12,7 @@ Program ini diimplementasikan menggunakan **Single Linked List** dalam bahasa C+
 ## Cara Menjalankan Program (Menggunakan Visual Studio Code)
 
 ### Persiapan (Hanya sekali)
-1. Pastikan Anda sudah meng-install C++ compiler (seperti **MinGW g++** untuk Windows).
+1. Pastikan Anda sudah menginstall C++ compiler (seperti **MinGW g++** untuk Windows).
 2. Install ekstensi **"C/C++"** dari Microsoft di dalam VS Code.
 
 ### Menjalankan Kode
