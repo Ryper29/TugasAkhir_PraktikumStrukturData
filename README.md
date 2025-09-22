@@ -11,6 +11,9 @@ Program ini diimplementasikan menggunakan **Single Linked List** dalam bahasa C+
 
 ## Cara Menjalankan Program
 1. Pastikan Anda memiliki C++ compiler (seperti MinGW/g++).
-2. Compile file `TugasAkhirSingleLinkedList.cpp` dengan perintah:
+2. Download lah file TugasAkhirSingleLinkedList.cpp
+3. Compile file `TugasAkhirSingleLinkedList.cpp` dengan perintah:
    ```sh
    g++ TugasAkhirSingleLinkedList.cpp -o TugasAkhirSingleLinkedList
+4. Jalankan program dengan perintah:
+   ./TugasAkhirSingleLinkedList
