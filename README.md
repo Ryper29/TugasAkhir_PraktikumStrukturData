@@ -5,9 +5,9 @@ Ini adalah program studi kasus **Sistem Manajemen Playlist Musik Sederhana** yan
 Program ini diimplementasikan menggunakan **Single Linked List** dalam bahasa C++.
 
 ## Informasi Praktikan
-- **Nama**: Rifki Yudika Perdana
-- **NPM**: 2415061090
-- **Kelas**: PSTI D
+- **Nama**  : Rifki Yudika Perdana
+- **NPM**   : 2415061090
+- **Kelas** : PSTI D
 
 ## Cara Menjalankan Program
 1. Pastikan Anda memiliki C++ compiler (seperti MinGW/g++).
